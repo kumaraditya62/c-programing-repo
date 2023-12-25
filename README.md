@@ -1,3 +1,3 @@
 # c-programing-repo 
-<br>
-c-programing repository Aurthor:-Aditya kumar
+c-programing repository
+Aurthor:-Aditya kumar
