@@ -2,8 +2,8 @@
 #include<conio.h>
 void main()
 {
-    int num,mod,cube,sum=0,temp; 
-    printf("input a number:-");
+    int num,mod,cube,sum=0,temp;
+    printf("input a number");
     scanf("%d",&num);
     temp=num;
     for(;num!=0;)
