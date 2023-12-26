@@ -8,18 +8,18 @@ void main()
     temp=num;
     for(;num!=0;)
     {
-    mod=num%10;
-    cube=mod*mod*mod;
-    sum=sum+cube;
-    num=num/10;
+        mod=num%10;
+        cube=mod*mod*mod;
+        sum=sum+cube;
+        num=num/10;
     }
     if(temp==sum)
     {
-        printf("ARMSTRONG ");   
+        printf("ARMSTRONG");
     }
-    else
-    {
-        printf("NOT ");
+    else{
+        printf("NOT");
     }
-    getch(); 
+    getch();
 }
+
