@@ -11,7 +11,7 @@ void main()
 
     even:
     printf("%d is even number\n");
-    return;
+    return 0;
     odd:
     printf("%d is odd nunmber\n");
     getch();
